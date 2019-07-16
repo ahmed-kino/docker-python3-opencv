@@ -14,6 +14,7 @@ RUN apt-get -qq update \
         wget \
         unzip \
         yasm \
+        libgtk2.0-dev \
         pkg-config \
         libswscale-dev \
         libtbb2 \
